@@ -1,6 +1,61 @@
 
 
 
+.container1 {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.Artist {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+.Artist {
+  
+  border-radius: 8px;
+  width: 250px;
+  padding: 15px;
+  text-align: side;
+}
+.Artist img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.Artist h3 {
+  color: #ffffff;
+  margin: 10px 0;
+}
+.Artist p4 {
+  font-size: 14px;
+  color: #ffffff;
+  text-align: side;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .container {
@@ -17,7 +72,6 @@
 }
 .song-item {
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   width: 250px;
   padding: 15px;
   text-align: center;
