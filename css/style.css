@@ -8,6 +8,7 @@
 }
 
 .Artist {
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 20px;
@@ -116,6 +117,9 @@ justify-content: space-evenly;
 background-color: rgb(9, 1, 1);
 
 }
+
+
+
 
 
 body {
